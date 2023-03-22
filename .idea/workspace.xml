@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b020ceeb-11a1-47da-a5bd-b2fb99c9016a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="F:\GoSDK\go1.13.1" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="2DBw76wp8lox8N5usSJAImVe2c9" />
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="go&#10;MySQL&#10;TSQL" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build code/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="code" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <output_directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+</project>
